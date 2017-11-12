@@ -1,0 +1,1101 @@
+[
+		  {
+	      	"id" : "1",
+		    "question": "Where does Santa Claus live?",
+                 "answers": [
+			    "North Pole",
+			    "South Pole",
+			    "Alaska",
+			    "Australia"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "2",
+		 "question": "How does Santa get into a house on Christmas eve?",
+                 "answers": [
+			    "Chimney",
+			    "Front door",
+			    "Window",
+			    "Dog door"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "3",
+		    "question": "Which is not one of Santa's Reindeers?",
+                 "answers": [
+			    "Reiner",
+			    "Dancer",
+			    "Vixen",
+			    "Dasher"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "4",
+		    "question": "How many reindeers pull Santa's sleigh?",
+                 "answers": [
+			    "9",
+			    "10",
+			    "8",
+			    "11"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "5",
+		    "question": "What is the name of the town in 'How the Grinch Stole Christmas'?",
+                 "answers": [
+			    "Whoville",
+			    "Whatville",
+			    "Howville",
+			    "Whyville"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "6",
+		    "question": "Which creepy crawly is considered lucky on Christmas ?",
+                 "answers": [
+			    "Spider",
+			    "Scorpion",
+			    "Cockroach",
+			    "Beetle"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "7",
+		    "question": "Who was Mary's husband?",
+                 "answers": [
+			    "Joseph",
+			    "Judah",
+			    "John",
+			    "Jesop"
+			  ],
+			  "difficulty": "1"
+	      },
+          {
+	      	"id" : "8",
+		    "question": "Which ancient people used to celebrate old Christmas?",
+                 "answers": [
+			    "Romans",
+			    "Vikings",
+			    "Aztecs",
+			    "Hebrews"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "9",
+		    "question": "If you want a kiss at Christmas, what plant should you stand under?",
+                 "answers": [
+			    "Mistletoe",
+			    "Fern",
+			    "Gardenia",
+			    "Bamboo"
+			  ],
+			  "difficulty": "1"
+	      },
+           {
+	      	"id" : "10",
+		    "question": "Which famous writer told the first story using Santa Claus' flying sled?",
+                 "answers": [
+			    "Washington Irving",
+			    "Georges Washington",
+			    "Shakespeare",
+			    "Voltaire"
+			  ],
+			  "difficulty": "1"
+	      },
+        {
+	      	"id" : "11",
+		    "question": "In which Christmas movie would you hear the phrase 'Bah humbug'?",
+                 "answers": [
+			    "A Christmas Carol",
+			    "Frosty the Snowman",
+			    "How the Grinch Stole Christmas!",
+			    "A Christmas Story"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "12",
+		    "question": "What is put in the stocking of a naughty child?",
+                 "answers": [
+			    "Coal",
+			    "Toys",
+			    "Wood",
+			    "Salt"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "13",
+		    "question": " What common Christmas decoration was first made using goose feathers?",
+                 "answers": [
+			    "The Christmas Tree",
+			    "Stockings",
+			    "Candy Cane",
+			    "Christmas Balls"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "14",
+		    "question": "What drink is often associated with Christmas?",
+                 "answers": [
+			    "Eggnog",
+			    "Tea",
+			    "Coffee",
+			    "Milk"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "15",
+		    "question": "What type of pie is usually eaten during Christmas?",
+                 "answers": [
+			    "Mince pie",
+			    "Apple pie",
+			    "Pumpkin pie",
+			    "Key Lime pie"
+			  ],
+			  "difficulty": "1"
+	      },
+           {
+	      	"id" : "16",
+		    "question": "What is the meaning of the Christmas wreath hanging on the door?",
+                 "answers": [
+			    "Sun",
+			    "Bethlehem's star",
+			    "Plenty of food",
+			    "Pin your location for Santa Claus"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "17",
+		    "question": "What is considered to be good luck on Christmas morning?",
+                 "answers": [
+			    "Finding a spider's web",
+			    "No coal in stockings",
+			    "cookies & milk left the night before are gone",
+			    "A letter from Santa"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "18",
+		    "question": "Of the following, what is considered to be a Christmas tradition?",
+                 "answers": [
+				"Kissing under a mistletoe",
+			    "Reading a Christmas book",
+			    "Watching a Christmas movie",
+			    "Opening Christmas presents"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "19",
+		    "question": "Which state was the first to recognize Christmas as a holiday?",
+                 "answers": [
+			    "Alabama",
+			    "Nebraska",
+			    "Alaska",
+			    "Michigan"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "20",
+		    "question": " Which of these names is the name of one of the wise men?",
+                 "answers": [
+			    "Balthazar",
+			    "Mathew",
+			    "John",
+			    "Herod"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "21",
+		    "question": "How would you say 'Merry Christmas' in French?",
+                 "answers": [
+			    "Joyeux Noel",
+			    "Feliz Navidad",
+			    "Feliz Natal",
+			    "Nadolig Llawen"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "22",
+		    "question": "In what country is Santa called 'Father Christmas'?",
+                 "answers": [
+			    "England",
+			    "France",
+			    "Norway",
+			    "Finland"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "23",
+		    "question": "What made Frosty the Snowman come to life?",
+                 "answers": [
+			    "Magic Hat",
+			    "Magic Eggnog",
+			    "Magic Carrot",
+			    "Magic Wand"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "24",
+		    "question": "In Mickey's Xmas Carol, which character plays Bob Cratchit, father of Tiny Tim?",
+                 "answers": [
+			    "Mickey Mouse",
+			    "Donald Duck",
+			    "Goofy",
+			    "Scrooge McDuck"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "25",
+		    "question": "How many reindeer originally pulled Santa's sleigh?",
+                 "answers": [
+			    "8",
+			    "9",
+			    "10",
+			    "11"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "26",
+		    "question": "In the bible how many Wisemen visit the baby in the manger?",
+                 "answers": [
+			    "Three",
+			    "Two",
+			    "Four",
+			    "None"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "27",
+		    "question": "Where does the tradition of turkey on Christmas originate?",
+                 "answers": [
+			    "USA",
+			    "England",
+			    "Scotland",
+			    "Ireland"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "28",
+		    "question": "How many ghosts visit Scrooge in the story 'A Christmas Carol'?",
+                 "answers": [
+			    "Four",
+			    "Three",
+			    "Two",
+			    "Five"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "29",
+		    "question": "How did the wise men find the baby Jesus?",
+                 "answers": [
+			    "The followed a star",
+			    "They followed signs on the road",
+			    "They stumbled upon the manger",
+			    "They used a GPS"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "30",
+		    "question": "How many days does a traditional Christmas last?",
+                 "answers": [
+			    "12",
+			    "10",
+			    "11",
+			    "9"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "31",
+		    "question": "In the song 'The Twelve Days of Christmas', how many pipers were there?",
+                 "answers": [
+			    "11",
+			    "12",
+			    "13",
+			    "10"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "32",
+		    "question": "What kind of food is hidden on the Christmas tree as a game?",
+                 "answers": [
+			    "Pickle",
+			    "Cookies",
+			    "Eggnog",
+			    "Turkey"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "33",
+		    "question": "What Christmas story was written by Charles Dickens?",
+                 "answers": [
+			    "A Christmas Carol",
+			    "A Christmas Story",
+			    "A Christmas Fable",
+			    "A Christmas Tale"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "34",
+		    "question": "Which country made the first artificial Christmas tree?",
+                 "answers": [
+			    "Germany",
+			    "England",
+			    "USA",
+			    "France"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "35",
+		    "question": "What celebration was the song Jingle Bells originally written for?",
+                 "answers": [
+			    "Thanksgiving",
+			    "Easter",
+			    "Christmas",
+			    "New Year"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "36",
+		    "question": "In the middle ages, what meat dish was served during Christmas feasts?",
+                 "answers": [
+			    "Swan",
+			    "Duck",
+			    "Goat",
+			    "Wild Boar"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "37",
+		    "question": " What dish is most commonly served on Christmas Day in Canada?",
+                 "answers": [
+			    "Turkey",
+			    "Goose",
+			    "Moose",
+			    "Duck"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "38",
+		    "question": "What family of tree is used as a Christmas tree?",
+                 "answers": [
+			    "Pine",
+			    "Palm",
+			    "Ficus",
+			    "Citrus"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "39",
+		    "question": "What color is Santa coat?",
+                 "answers": [
+			    "Red",
+			    "Blue",
+			    "Green",
+			    "Pink"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "40",
+		    "question": "What does Santa like to eat after putting presents under the tree?",
+                 "answers": [
+			    "Cookies",
+			    "Bread",
+			    "Pudding",
+			    "Twinkies"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "41",
+		    "question": "What day does Christmas fall on?",
+                 "answers": [
+			    "December 25th",
+			    "December 26th",
+			    "December 24th",
+			    "January 1st"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "42",
+		    "question": "Who helps Santa make the presents?",
+                 "answers": [
+			    "Elves",
+			    "Smurfs",
+			    "Dwarfs",
+			    "Angels"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "43",
+		    "question": "How does Santa travel from the north pole?",
+                 "answers": [
+			    "Sleigh",
+			    "Taxi",
+			    "Plane",
+			    "Flying carpet"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "44",
+		    "question": "What pulls Santa's sleigh?",
+                 "answers": [
+			    "Reindeer",
+			    "Moose",
+			    "Buffalo",
+			    "Dogs"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "45",
+		    "question": "What color is Rudolph the reindeer's nose?",
+                 "answers": [
+			    "Red",
+			    "Pink",
+			    "Green",
+			    "Blue"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "46",
+		    "question": "In Frosty the Snowman, who brought Frosty back to life? ",
+                 "answers": [
+			    "Santa Claus",
+			    "Santa's Elf",
+			    "The Grinch",
+			    "Mrs.Claus"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "47",
+		    "question": "What is the biggest selling Christmas single of all time? ",
+                 "answers": [
+			    "White Christmas",
+			    "Jingle Bells",
+			    "Silent Night",
+			    "The Christmas Song"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "48",
+		    "question": "What was Scrooge's first name? ",
+                 "answers": [
+			    "Ebenezer ",
+			    "Eli",
+			    "Charles",
+			    "Richard"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "49",
+		    "question": "Who said 'God Bless Us, Every One'? ",
+                 "answers": [
+			    "Tiny Tim",
+			    "Scrooge",
+			    "Ghost of Christmas Past",
+			    "Bob Cratchit"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "50",
+		    "question": "Name the three reindeer whose names begin with a 'D'? ",
+                 "answers": [
+			    "Dasher, Donder, Dancer",
+			    "Dancer, Don, Duncer",
+			    "Dasher, Donner, Drummer",
+			    "Donder, Digger, Dreamer"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "51",
+		    "question": "In what city did Miracle on 34th Street take place?",
+                 "answers": [
+			    "New York",
+			    "Seattle",
+			    "Chicago",
+			    "Boston"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "52",
+		    "question": "In The Night Before Xmas, where were the stockings hung? ",
+                 "answers": [
+			    "By the chimney ",
+			    "On the tree",
+			    "Along the window sill",
+			    "On the door"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "53",
+		    "question": "What is the last ghost called in A Christmas Carol?",
+                 "answers": [
+			    "The Ghost of Xmas Yet to Come",
+			    "The Ghost of Xmas Past",
+			    "The Ghost of Xmas Future",
+			    "The Ghost of Xmas Far, Far Away"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "54",
+		    "question": "What color is the Grinch?",
+                 "answers": [
+			    "Green",
+			    "Blue",
+			    "Red",
+			    "Yellow"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "55",
+		    "question": "What popular Xmas chocolate candy comes wrapped in red&green foil?",
+                 "answers": [
+			    "Hershey's Kisses",
+			    "Reese's Pieces",
+			    "Baby Ruth",
+			    "Snicker's"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "56",
+		    "question": "Which reindeer is never mentioned in 'The Night Before Christmas'?",
+                 "answers": [
+			    "Rudolph",
+			    "Dasher",
+			    "Dancer",
+			    "Vixen"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "57",
+		    "question": "Santa's beard is like what feature of winter?",
+                 "answers": [
+			    "Snow",
+			    "Presents",
+			    "Snowman",
+			    "Christmas Tree"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "58",
+		    "question": "Name the two reindeer whose name begins with a 'C'?",
+                 "answers": [
+			    "Comet and Cupid",
+			    "Cuter and Comet",
+			    "Cupid and Chatter",
+			    "Comet and Catcher"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "59",
+		    "question": " What carol contains the word 'Fa-la-la-la-la-la-la-la-la'? ",
+                 "answers": [
+			    "Deck the Halls",
+			    "Jingle Bells",
+			    "Silent Night",
+			    "Frosty the Snowman"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "60",
+		    "question": "What did the Grinch use as a substitute for reindeer?",
+                 "answers": [
+			    "His Dog",
+			    "His Cat",
+			    "His Rabbit",
+			    "His Mouse"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "61",
+		    "question": "What Xmas movie tells a boy's experience when 2 men break into his house",
+                 "answers": [
+			    "Home Alone",
+			    "A Christmas Story",
+			    "A Charlie Brown Christmas",
+			    "Everybody's Fine"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "62",
+		    "question": "On what street did a Santa Claus miracle occur?",
+                 "answers": [
+			    "34th",
+			    "33rd",
+			    "35th",
+			    "40th"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "63",
+		    "question": "What carol is known as the counting song?",
+                 "answers": [
+			    "The Twelve Days of Christmas",
+			    "Jingle Bells",
+			    "Silent Night",
+			    "Deck the Halls"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "64",
+		    "question": "which family member traditionally gets to open the 1st present?",
+                 "answers": [
+			    "The youngest",
+			    "The oldest",
+			    "The quickest",
+			    "The slowest"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "65",
+		    "question": "Whose eyes were made of coal?",
+                 "answers": [
+			    "The Snowman",
+			    "The Grinch",
+			    "Rudolph",
+			    "Scrooge"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "66",
+		    "question": "What song was originally titled 'One Horse Open Sleigh'?",
+                 "answers": [
+			    "Jingle Bells",
+			    "Christmas Is Coming",
+			    "Silent Night",
+			    "Deck the Halls"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "67",
+		    "question": "What is Frosty's nose made of?",
+                 "answers": [
+			    "A Button",
+			    "Coal",
+			    "A Carrot",
+			    "A Red Ball"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "68",
+		    "question": "What country started the tradition of exchanging gifts?",
+                 "answers": [
+			    "Italy",
+			    "England",
+			    "USA",
+			    "Germany"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "69",
+		    "question": "How many times is the name of Santa Claus used in 'The Night Before Xmas'?",
+                 "answers": [
+			    "None",
+			    "10",
+			    "8",
+			    "13"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "70",
+		    "question": "What is the most popular tree topper?",
+                 "answers": [
+			    "Angel",
+			    "Star",
+			    "Santa",
+			    "Yoda"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "71",
+		    "question": "Who wrote 'The Night Before Christmas'?",
+                 "answers": [
+			    "Clement C. Moore",
+			    "Charles Dickens",
+			    "Stephen King",
+			    "Robin Cook"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "72",
+		    "question": "What do most elves wear on the tips of their shoes?",
+                 "answers": [
+			    "Bells",
+			    "Tassels",
+			    "Stars",
+			    "They don't wear shoes"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "73",
+		    "question": "After red & green, what are the two most popular Xmas colors?",
+                 "answers": [
+			    "Silver and Gold",
+			    "White and Blue",
+			    "White and Pink",
+			    "Purple and Orange"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "74",
+		    "question": "What song does a caroler sing outside Scrooge's office?",
+                 "answers": [
+			    "God Rest You Merry Gentlemen",
+			    "Silent Night",
+			    "Jingle Bells",
+			    "Let It Snow"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "75",
+		    "question": "Where did Santa land his sleigh in 'The Night Before Xmas'?",
+                 "answers": [
+			    "Upon the roof",
+			    "Outside the front door",
+			    "On the chimney",
+			    "On a frozen lake"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "76",
+		    "question": "In what town was Jesus born?",
+                 "answers": [
+			    "Bethlehem",
+			    "Jerusalem",
+			    "Rome",
+			    "Athens"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "77",
+		    "question": "Who appeared to the shepherds?",
+                 "answers": [
+			    "Angels",
+			    "God",
+			    "Star",
+			    "St.Nick"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "78",
+		    "question": "What is not another name for Santa Claus?",
+                 "answers": [
+			    "Saint Claus",
+			    "Saint Nicholas",
+			    "Father Christmas",
+			    "Sinter Klaas"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "79",
+		    "question": "What is the country of origin of the poinsettia?",
+                 "answers": [
+			    "Mexico",
+			    "Canada",
+			    "USA",
+			    "Argentina"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "80",
+		    "question": "Who is the author of the book 'The Grinch who Stole Christmas'",
+                 "answers": [
+			    "Dr.Seuss",
+			    "Dr.Zeus",
+			    "Mr.Seuss",
+			    "Mr.Zeus"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "81",
+		    "question": "Who is not a member of the Crachit family in the book 'Xmas Carol'",
+                 "answers": [
+			    "John",
+			    "Bob",
+			    "Tiny Tim",
+			    "Peter"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "82",
+		    "question": "What is the candy cane shape modeled after?",
+                 "answers": [
+			    "A shepherd's crook",
+			    "A fish hook",
+			    "Santa's cane",
+			    "A constellation"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "83",
+		    "question": "Which Christmas Carol composed in 1818 was written for guitar?",
+                 "answers": [
+			    "Silent Night",
+			    "Deck The Hall",
+			    "Jingle Bells",
+			    "Let It Snow"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "84",
+		    "question": "Where did the kissing under the mistletoe tradition begin?",
+                 "answers": [
+			    "Scandinavia",
+			    "Canada",
+			    "USA",
+			    "France"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "85",
+		    "question": "Which state was the last to declare Xmas an American national holiday?",
+                 "answers": [
+			    "Oklahoma",
+			    "Alabama",
+			    "North Carolina",
+			    "Ohio"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "86",
+		    "question": "Which of these was one of the three wise men?",
+                 "answers": [
+			    "Gasper",
+			    "Gandalph",
+			    "Michael",
+			    "Malcolm"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "87",
+		    "question": "Which Xmas Carol did Bing Crosby & David Bowie sung on television?",
+                 "answers": [
+			    "Little Drummer Boy",
+			    "Silent Night",
+			    "Let It Snow",
+			    "Frosty The Snowman"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "88",
+		    "question": "Who kept time with the Little Drummer Boy?",
+                 "answers": [
+			    "ox and lamb",
+			    "lamb and fox",
+			    "goose",
+			    "fox"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "89",
+		    "question": "Which American First lady wrote a Xmas story about a girl named Marta?",
+                 "answers": [
+			    "Eleanor Roosevelt",
+			    "Barbara Bush",
+			    "Michelle Obama",
+			    "Bess Truman"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "90",
+		    "question": "How many sides does a snowflake have?",
+                 "answers": [
+			    "Six",
+			    "Five",
+			    "Seven",
+			    "Four"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "91",
+		    "question": "In 'The Twelve Days of Xmas' song how many presents would you get?",
+                 "answers": [
+			    "364",
+			    "464",
+			    "253",
+			    "375"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "92",
+		    "question": "In the song 'Christmas is coming' who are what are getting fat?",
+                 "answers": [
+			    "Geese",
+			    "Duck",
+			    "Pig",
+			    "Cow"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "93",
+		    "question": "Which country can be credited with the creation of beverage, eggnog?",
+                 "answers": [
+			    "England",
+			    "France",
+			    "Germany",
+			    "Spain"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "94",
+		    "question": "After leaving Bethlehem, which country did Joseph, Mary, & Jesus travel to?",
+                 "answers": [
+			    "Egypt",
+			    "Israel",
+			    "Libya",
+			    "Syria"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "95",
+		    "question": "What is the color of the berries of the mistletoe plant?",
+                 "answers": [
+			    "Red",
+			    "Green",
+			    "Yellow",
+			    "Blue"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "96",
+		    "question": "Which country gifts the Xmas tree placed at the Trafalgar Square in London?",
+                 "answers": [
+			    "Norway",
+			    "Finland",
+			    "Belgium",
+			    "Germany"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "97",
+		    "question": "Which country does St. Nicholas originally belong to?",
+                 "answers": [
+			    "Turkey",
+			    "Russia",
+			    "Norway",
+			    "Sweden"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "98",
+		    "question": "Which is the most famous Christmas ballet of all time?",
+                 "answers": [
+			    "The Nutcracker",
+			    "Giselle",
+			    "Swan Lake",
+			    "Don Quixote"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "99",
+		    "question": "What is the name of Scrooge's partner, from the play, A Xmas Carol?",
+                 "answers": [
+			    "Jacob Marley",
+			    "Bob Marley",
+			    "John Marley",
+			    "Peter Marley"
+			  ],
+			  "difficulty": "1"
+	      },
+		  {
+	      	"id" : "100",
+		    "question": "What is not a gift that the 3 Wise Men gave baby Jesus?",
+                 "answers": [
+			    "Silver",
+			    "Gold",
+			    "Myrrh",
+			    "Frankincense"
+			  ],
+			  "difficulty": "1"
+	      }]
